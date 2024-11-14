@@ -5,7 +5,7 @@
 
 <img src="/readme_figures/biodiversity.png">
 
-Description (...)
+This is a fun and didactic genomics project.
 
 ### Find the content of this repository in GitHub:
 [https://github.com/jurtasun/202411_lxa_sequence](https://github.com/jurtasun/202411_lxa_sequence)
